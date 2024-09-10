@@ -27,10 +27,10 @@ const NavBar = () => {
           <a href="">Productos</a>
           {desplegableVisible && (
             <ul className="desplegable">
-            <li>Hombre</li>
-            <li>Mujer</li>
-            <li>Niños</li>
-          </ul>
+              <li>Hombre</li>
+              <li>Mujer</li>
+              <li>Niños</li>
+            </ul>
           )}
         </li>
         <li className="fondo-barra"><a href="">Nosotros</a></li>
